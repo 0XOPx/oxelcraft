@@ -1,7 +1,7 @@
 # Oxelcraft -- The simple LWJGL game.
 ## I made this, i just did this
 # INFO
-## This is *open source* in the code branch
+## This is *open source* in the code branch (the code is the 0.0.1 beta lol this will not be updated.)
 ### This is only for the website, you can get the launcher from the releases and new versions from [oxelcraft-vault](https://github.com/0XOPx/oxelcraft-vault.git)
 # Requirements
 # Windows
