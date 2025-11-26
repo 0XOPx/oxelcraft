@@ -1,0 +1,5 @@
+# Created at 2025-11-26T17:01:19.634
+Boot Manifest-JAR contains absolute paths in classpath 'F:\Users\natal\eclipse-workspace\Oxelcraft\10284212\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
