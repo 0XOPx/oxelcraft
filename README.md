@@ -3,3 +3,6 @@
 # INFO
 ## This is not *open source*
 ### This is only for the website, you can get the launcher from the releases and new versions from oxelcraft-vault
+# Requirements
+# Windows
+# Java 17 or more
