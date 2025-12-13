@@ -25,20 +25,24 @@ Then go back one folder, and then open oxelcraftlauncher.exe it opens the launch
 Then select your version in here:
 <br><img width="134" height="32" alt="obraz" src="https://github.com/user-attachments/assets/321a6108-be50-400f-a54a-88baa0d5706b" />
 <br>*Info: if you modified the versions folder to add more versions or a version, click the "Refresh Versions" button.*
-# OTHER OSES THAN WINDOWS - COME HERE.
+<h1>If you have Windows, you could use another method of installing, it's named **"Opt"** - my package manager, here's the command for installing it:</h1>
+<code>
+opt install oxelcraftlauncher
+</code>
+<h1> OTHER OSES THAN WINDOWS - COME HERE.</h1>
 When you got the jar, you need to do this:
 <br>Go to terminal and type this command:
-```bash
+<code>
 java -jar oxelcraft-x-x-x-BETA
-```
+</code>
 It could also be
-```bash
+<code>
 java -jar oxelcraft-x-x-x-ALPHA
-```
+</code>
 or (i'm serious, this is the last one)
-```bash
+<code>
 java -jar oxelcraft-x-x-x-RELEASE
-```
+</code>
 Then you have the game launched now!
 
 Thanks for reading Guide 1 of Oxelcraft.
